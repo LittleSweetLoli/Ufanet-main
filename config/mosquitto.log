@@ -541,3 +541,47 @@ To fix this, use `chmod 0700 /mosquitto/config/password`.
 1763744084: mosquitto version 2.0.22 running
 1763744318: mosquitto version 2.0.22 terminating
 1763744318: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1763745062: mosquitto version 2.0.22 starting
+1763745062: Config loaded from /mosquitto/config/mosquitto.conf.
+1763745062: Warning: File /mosquitto/config/password has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password`.
+1763745062: Opening ipv4 listen socket on port 1883.
+1763745062: Opening websockets listen socket on port 9001.
+1763745062: mosquitto version 2.0.22 running
+1763745269: New connection from 172.22.0.1:40572 on port 1883.
+1763745269: New client connected from 172.22.0.1:40572 as auto-59B642ED-4944-DEA3-4990-4A205B6F2EFF (p2, c1, k60, u'ufanet_bot').
+1763745269: auto-59B642ED-4944-DEA3-4990-4A205B6F2EFF 0 1223:1441:3451:3161
+1763745289: New connection from 172.22.0.1:45582 on port 1883.
+1763745289: New client connected from 172.22.0.1:45582 as auto-4F0EF344-9B40-34BA-11BB-783DD1A56105 (p2, c1, k60, u'ufanet_bot').
+1763745290: Client auto-59B642ED-4944-DEA3-4990-4A205B6F2EFF disconnected.
+1763745290: New connection from 172.22.0.1:45584 on port 1883.
+1763745290: New client connected from 172.22.0.1:45584 as auto-D7C7436A-C477-E777-10E3-2286ABF8E8EB (p2, c1, k60, u'ufanet_bot').
+1763745290: auto-D7C7436A-C477-E777-10E3-2286ABF8E8EB 0 1223:1441:3451:3161
+1763745291: Client auto-D7C7436A-C477-E777-10E3-2286ABF8E8EB disconnected.
+1763745291: New connection from 172.22.0.1:45594 on port 1883.
+1763745291: New client connected from 172.22.0.1:45594 as auto-FE5E338E-BDE1-A2C2-C68B-B775116A137F (p2, c1, k60, u'ufanet_bot').
+1763745291: auto-FE5E338E-BDE1-A2C2-C68B-B775116A137F 0 1223:1441:3451:3161
+1763745292: Client auto-FE5E338E-BDE1-A2C2-C68B-B775116A137F disconnected.
+1763745292: New connection from 172.22.0.1:45608 on port 1883.
+1763745292: New client connected from 172.22.0.1:45608 as auto-6C6F2D30-5611-45FD-EA87-AFC04EA40460 (p2, c1, k60, u'ufanet_bot').
+1763745292: auto-6C6F2D30-5611-45FD-EA87-AFC04EA40460 0 1223:1441:3451:3161
+1763745293: Client auto-4F0EF344-9B40-34BA-11BB-783DD1A56105 disconnected.
+1763745293: Client auto-6C6F2D30-5611-45FD-EA87-AFC04EA40460 disconnected.
+1763745293: New connection from 172.22.0.1:45612 on port 1883.
+1763745293: New client connected from 172.22.0.1:45612 as auto-62C75490-378B-ADB1-597C-CE85E5CAF06C (p2, c1, k60, u'ufanet_bot').
+1763745293: auto-62C75490-378B-ADB1-597C-CE85E5CAF06C 0 1223:1441:3451:3161
+1763745329: Client auto-62C75490-378B-ADB1-597C-CE85E5CAF06C disconnected.
+1763745629: New connection from 127.0.0.1:48972 on port 1883.
+1763745629: New client connected from 127.0.0.1:48972 as auto-C2925637-9A69-5464-8F22-68CA0FF753CA (p2, c1, k60, u'ufanet_bot').
+1763745629: Client auto-C2925637-9A69-5464-8F22-68CA0FF753CA disconnected.
+1763745653: New connection from 172.22.0.1:51116 on port 1883.
+1763745653: New client connected from 172.22.0.1:51116 as auto-355969B5-270E-3655-D2A0-BDC8701A0109 (p2, c1, k60, u'ufanet_bot').
+1763745653: auto-355969B5-270E-3655-D2A0-BDC8701A0109 0 1223:1441:3451:3161
+1763745658: New connection from 127.0.0.1:44314 on port 1883.
+1763745658: New client connected from 127.0.0.1:44314 as auto-B858E3F7-5B64-8DB4-35C8-E59BCAA95C92 (p2, c1, k60, u'ufanet_bot').
+1763745658: Client auto-B858E3F7-5B64-8DB4-35C8-E59BCAA95C92 disconnected.
+1763745658: Client auto-355969B5-270E-3655-D2A0-BDC8701A0109 disconnected.
+1763745658: New connection from 172.22.0.1:45412 on port 1883.
+1763745658: New client connected from 172.22.0.1:45412 as auto-582E4A10-43AA-9A51-FB85-D04799F9A53E (p2, c1, k60, u'ufanet_bot').
+1763745658: auto-582E4A10-43AA-9A51-FB85-D04799F9A53E 0 1223:1441:3451:3161
+1763745713: Client auto-582E4A10-43AA-9A51-FB85-D04799F9A53E disconnected.
