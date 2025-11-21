@@ -1,4 +1,3 @@
-```markdown
 # Ufanet Telegram Bot  
 **Считывание данных со счётчиков по MQTT → Telegram-бот на Aiogram 3**
 
@@ -69,4 +68,3 @@ docker exec -it mqtt mosquitto_passwd /mosquitto/config/password новый_ло
 - RedisInsight (веб-интерфейс): http://localhost:8001
 - MQTT WebSocket (если нужен): ws://localhost:9001
 
-```
