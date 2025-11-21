@@ -49,11 +49,8 @@ docker-compose up --build
 python testingPublish.py
 ```
 5. Если все сделано правильно в боте должны отобразиться сообщения вида:
-```
-Сообщение от 1223:1441:3451:3161: 1   
-Сообщение от 1223:1441:3451:3161: 2
-...
-```
+<img width="576" height="622" alt="image" src="https://github.com/user-attachments/assets/434aeae9-3660-41ed-94c2-2e17fc3aa062" />
+
 #### Вариант 2 - Через консоль контейнера
 ```bash
 docker exec -it mqtt mosquitto_pub -t "1223:1441:3451:3161" -m "Тестовое показание: 156.8 кВт·ч" -u ufanet_bot -P supersecret123
